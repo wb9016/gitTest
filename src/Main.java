@@ -5,5 +5,6 @@ public class Main {
         System.out.println("合并冲突master");
         System.out.println("合并冲突hot-fix");
         System.out.println("网页更改拉取");
+        System.out.println("删库跑路");
     }
 }
